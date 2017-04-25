@@ -4,15 +4,15 @@
 #
 # Translators:
 # Franklin Kingma <franklin@statix.net>, 2015
-# Maarten Kling <kling.maarten@gmail.com>, 2015
+# Maarten Kling <kling.maarten@gmail.com>, 2015,2017
 # Thijs Kramer <thijskramer@gmail.com>, 2015-2016
 msgid ""
 msgstr ""
 "Project-Id-Version: Wagtail\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-02-06 12:33+0000\n"
-"PO-Revision-Date: 2016-11-23 19:11+0000\n"
-"Last-Translator: Thijs Kramer <thijskramer@gmail.com>\n"
+"POT-Creation-Date: 2017-04-19 21:02+0000\n"
+"PO-Revision-Date: 2017-04-20 19:56+0000\n"
+"Last-Translator: Maarten Kling <kling.maarten@gmail.com>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/torchbox/"
 "wagtail/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
@@ -224,6 +224,9 @@ msgstr ""
 
 msgid "Current focal point shown"
 msgstr "Huidige brandpunt getoond"
+
+msgid "Remove focal area"
+msgstr "Verwijder brandpuntsgebied"
 
 msgid "URL Generator"
 msgstr "URL Generator"
